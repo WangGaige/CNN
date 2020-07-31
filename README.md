@@ -1,3 +1,4 @@
 # CNN
 CNN_Codes
-https://github.com/WangGaige/CNN/blob/master/NEW.JPG?raw=true
+Format: ![Alt Text](https://github.com/WangGaige/CNN/blob/master/NEW.JPG?raw=true)
+
